@@ -8,6 +8,7 @@ jobs:
           name: Hello World
           command: |
             echo 'Hello World!'
+            echo 'Hello Terraform!'
             echo 'This is the delivery pipeline'
   I-Have-Code:
     docker:
